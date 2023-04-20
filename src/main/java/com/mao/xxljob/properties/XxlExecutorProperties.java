@@ -1,4 +1,4 @@
-package xxljob.properties;
+package com.mao.xxljob.properties;
 
 import lombok.Data;
 

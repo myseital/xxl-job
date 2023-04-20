@@ -1,4 +1,4 @@
-package xxljob.job;//package com.mao.xxljob.job;
+package com.mao.xxljob.job;//package com.mao.xxljob.job;
 //
 //import com.xxl.job.core.executor.XxlJobExecutor;
 //import com.xxl.job.core.handler.IJobHandler;

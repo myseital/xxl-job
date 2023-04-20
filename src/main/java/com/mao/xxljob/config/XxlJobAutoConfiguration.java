@@ -1,4 +1,4 @@
-package xxljob.config;
+package com.mao.xxljob.config;
 
 import com.mao.xxljob.properties.XxlExecutorProperties;
 import com.mao.xxljob.properties.XxlJobProperties;

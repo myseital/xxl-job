@@ -1,4 +1,4 @@
-package xxljob.annotation;
+package com.mao.xxljob.annotation;
 
 import com.mao.xxljob.config.XxlJobAutoConfiguration;
 import org.springframework.context.annotation.Import;

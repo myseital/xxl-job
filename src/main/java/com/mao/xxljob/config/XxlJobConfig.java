@@ -1,13 +1,13 @@
-package xxljob.config;
+package com.mao.xxljob.config;
 
 import com.mao.xxljob.properties.XxlAdminProperties;
 import com.mao.xxljob.properties.XxlExecutorProperties;
-import com.mao.xxljob.properties.XxlJobProperties;
 import com.xxl.job.core.executor.impl.XxlJobSpringExecutor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import com.mao.xxljob.properties.XxlJobProperties;
 
 /**
  * @author myseital
